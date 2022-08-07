@@ -1,0 +1,10 @@
+{
+  "name": "test-enviame-cli",
+  "version": "1.0.0",
+  "description": "Test Enviame - Console Tool",
+  "main": "index.js",
+  "author": "Nicolas Alvarez <alvareznicolasdev@gmail.com>",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
