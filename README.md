@@ -20,7 +20,6 @@ node index get-prime-numbers 2 100
 node index calculate-json
 ```
 
-
 Example Output
 ```
 Usage: test-enviame-cli [options] [command]
