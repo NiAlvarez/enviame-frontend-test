@@ -3,6 +3,8 @@
 ## Test Enviame - Console Tool format
 
 ### Getting Started
+
+### Exercise 1 and 2
 ```
 yarn install
 ```
@@ -35,7 +37,7 @@ Commands:
   help [command]                       display help for commands
 ```
 
-## Ejercicio 3
+## Exercise 3
 
 -Navegar hasta la carpeta frontend/marvel-app
 
