@@ -7,10 +7,10 @@
       <div class="row">
         <div class="col-md-12">
           <div class="centered mb-5">
-          Edition Mode!
+          Edition and Creation Mode!
         </div> 
           <div>
-            <div v-if="!creation" class="card" style="width: 18rem">
+            <div v-if="!creation" class="card" >
               <div class="card-body">
                 <div
                   class="cardDivision d-flex flex-row justify content-center align-items-center"
